@@ -1,0 +1,19 @@
+
+12- Adicionar porciento para ancho de tablas y celdas.
+11- Combinar celdas (row and colspan).
+10- Adicionar imágenes flotantes.
+
+16/08/17
+09- Seleccionar diferentes tamaños de página.
+07- Configurar como biblioteca.
+
+15/08/17
+07- Notificar los cambios de "lastY" de la tabla a la página, para generar nuevas páginas.
+06- Color de fondo para las celdas.
+05- Adicionar "Página actual / Total de páginas" como footer.
+04- Generar "searchable pdf".
+
+09/07/17
+03- Tratamiento de headers (inicialmente en negritas).
+02- Adición de bordes y QTextOptions a las celdas.
+01- Corrección de escala para hoja Carta.

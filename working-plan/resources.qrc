@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/icons/edit.png</file>
+        <file>resources/icons/remove.png</file>
+        <file>resources/icons/remove_small.png</file>
+        <file>resources/icons/uci.png</file>
+        <file>resources/icons/add.png</file>
+        <file>resources/icons/pdf.png</file>
+        <file>resources/icons/print.svg</file>
+        <file>resources/icons/printPreview.svg</file>
+        <file>resources/icons/refresh.png</file>
+        <file>resources/icons/help.png</file>
+        <file>resources/icons/a4.png</file>
+        <file>resources/icons/letter.png</file>
+        <file>resources/icons/icon.ico</file>
+        <file>resources/icons/icon.png</file>
+        <file>resources/icons/export.png</file>
+        <file>resources/icons/import.png</file>
+    </qresource>
+</RCC>
